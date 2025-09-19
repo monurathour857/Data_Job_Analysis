@@ -1,0 +1,44 @@
+Challenges with the Database:
+
+●	Data Inconsistencies and Missing Information:
+○	The database is filled with inconsistencies and missing values, making it difficult to rely on data.
+○	Many critical details are embedded within lengthy, unstructured paragraphs, which makes data extraction a complicated task.
+
+●	Fragmented and Disconnected Data Tables:
+○	The dataset consists of multiple tables that are poorly structured, distorted, and fragmented.
+○	There is a lack of connections and relationships between these tables, resulting in isolated data silos with no clear way to integrate the information.
+
+●	Challenges Due to the Size of the Data:
+○	The database is extremely large(7 lakh+ rows), presenting additional difficulties in managing and processing the data efficiently.
+○	This requires careful planning to ensure that the Power BI report can handle the data volume without compromising speed or performance.
+
+●	Power BI Report Optimization:
+○	Special attention must be given to ensure that the final report in Power BI is fully optimised, 
+○ allowing it to handle the data effectively while still providing accurate and comprehensive insights.
+
+PROBLEM STATEMENT - 
+
+1.	The company is facing challenges in understanding hiring trends over the years, which impacts strategic workforce planning.
+Without a clear visual representation of job openings, it's difficult to identify peak hiring periods and adjust recruitment strategies accordingly.
+This lack of insight can lead to missed opportunities in talent acquisition and inefficient resource allocation.
+A comprehensive visual analysis is needed to inform decision-making and enhance the effectiveness of hiring initiatives.
+
+2.	The company is facing challenges in understanding the distribution of job types, such as work-from-home and remote positions, across different years.
+Analysing the number of companies offering each job type, along with their contribution to the total jobs for those years, is essential for recognizing evolving employment trends.
+This insight will enable more strategic recruitment planning and better alignment with market demands, ultimately enhancing the company’s hiring effectiveness.
+
+3.	The company needs to identify which job types have the highest number of openings for each country and year. 
+Understanding the dominant job types in various regions over time is crucial for tailoring recruitment strategies and addressing local market demands.
+This analysis will provide valuable insights into global hiring trends, allowing the company to focus its efforts on the most sought-after positions in specific countries and improve its overall talent acquisition approach.
+
+4.	The company aims to determine the average number of companies hiring over time to gauge overall market activity and stability.
+By analysing hiring trends, the organisation can identify fluctuations in recruitment practices and understand the competitive landscape better.
+This insight is essential for strategic workforce planning and can guide efforts in talent acquisition, ensuring that the company remains agile in adapting to changing market conditions.
+
+5.	The company seeks to identify the top three job fields for each year to understand the most in-demand sectors within the job market.
+By analysing these trends annually, the organisation can better align its recruitment strategies with emerging industry needs and capitalise on growth opportunities.
+This insight will enhance the company’s ability to attract talent in high-demand areas, ensuring that it remains competitive and responsive to market dynamics.
+
+6.	The company is looking to visualise the most in-demand skills to better understand workforce requirements and guide training and development initiatives.
+By creating a clear visual representation of these skills, stakeholders can identify key areas where talent is lacking and prioritise skill development efforts accordingly.
+This analysis will help align the organisation’s workforce capabilities with market demands, ensuring that employees possess the skills necessary to thrive in their roles and contribute effectively to the company’s success.
